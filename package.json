@@ -1,0 +1,14 @@
+{
+  "name": "@bell-gasp/eslint-config",
+  "version": "1.0.0",
+  "description": "Collection of ESLint rules we use across all projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "oreoz",
+  "license": "MIT"
+}
