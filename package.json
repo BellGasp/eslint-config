@@ -1,6 +1,6 @@
 {
   "name": "@bell-gasp/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of ESLint rules we use across all projects.",
   "repository": "https://github.com/BellGasp/eslint-config.git",
   "main": "index.js",
